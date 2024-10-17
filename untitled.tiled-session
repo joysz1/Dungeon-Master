@@ -1,0 +1,119 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "tilemap.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 994.75,
+                "y": 123.75
+            }
+        },
+        "tilemapFour.tmx": {
+            "scale": 3,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 282.5,
+                "y": 60
+            }
+        },
+        "tilemapFourExtra.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 253.66666666666663,
+                "y": 242.66666666666666
+            }
+        },
+        "tilemapMenu.tmx": {
+            "scale": 1.52890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 182.81042411854884,
+                "y": 256.39243740419005
+            }
+        },
+        "tilemapOne.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 289.3333333333333,
+                "y": 76.66666666666666
+            }
+        },
+        "tilemapOneExtra.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 122.33333333333331,
+                "y": 239.99999999999997
+            }
+        },
+        "tilemapThree.tmx": {
+            "scale": 8,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 79.3125,
+                "y": 77.5
+            }
+        },
+        "tilemapThreeExtra.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 173.66666666666663,
+                "y": 273.3333333333333
+            }
+        },
+        "tilemapTwo.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 83.63636363636365,
+                "y": 68.36363636363636
+            }
+        },
+        "tilemapTwoExtra.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 88.33333333333331,
+                "y": 251.33333333333331
+            }
+        },
+        "tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/josep/Documents/CS2261/Final Project Scaffold",
+    "last.imagePath": "C:/Users/josep/Documents/CS2261/Final Project Scaffold",
+    "map.height": 64,
+    "map.lastUsedExportFilter": "GBA source files - regular (*.c *.h)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 8,
+    "map.tileWidth": 8,
+    "map.width": 64,
+    "openFiles": [
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "tilemapTwo.tmx",
+        "tilemapOne.tmx",
+        "tilemapThree.tmx",
+        "tileset.tsx",
+        "tilemap.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 8,
+        "width": 8
+    }
+}
